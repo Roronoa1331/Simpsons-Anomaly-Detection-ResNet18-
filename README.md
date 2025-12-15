@@ -131,4 +131,3 @@ Loss Function: Cross-Entropy Loss
 - Compare against autoencoder-based and contrastive anomaly detection methods.
 - Extend to deeper architectures (ResNet34/50, ViT).
 - Explore ensemble-based uncertainty estimation.
-# Simpsons-Anomaly-Detection-ResNet18-
